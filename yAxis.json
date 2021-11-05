@@ -1,0 +1,36 @@
+[
+            {
+                "title": "AH Effectiveness % | ID :27",
+                "plot": [
+                    {
+                        "value": "AH Effectiveness % | ID :27",
+                        "connectnulldata": true,
+                        "aggregation": "Last",
+                        "round": false,
+                        "style": {}
+                    }
+                ],
+                "format": {
+                    "suffix": "%",
+                    "defaultFormat": 0,
+                    "round": "1"
+                }
+            },
+            {
+                "title": "Boiler Flue Gas O2 Content Side A % | ID :28",
+                "plot": [
+                    {
+                        "value": "Boiler Flue Gas O2 Content Side A % | ID :28",
+                        "connectnulldata": true,
+                        "aggregation": "Last",
+                        "round": false,
+                        "style": {}
+                    }
+                ],
+                "format": {
+                    "suffix": "%",
+                    "defaultFormat": 0,
+                    "round": "1"
+                }
+            }
+        ]
