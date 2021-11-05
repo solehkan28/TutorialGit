@@ -1,0 +1,15 @@
+[
+            {
+                "name": "Time",
+                "type": "date",
+                "format": "%Y-%m-%d %H:%M:%S"
+            },
+            {
+                "name": "AH Effectiveness % | ID :27",
+                "type": "number"
+            },
+            {
+                "name": "Boiler Flue Gas O2 Content Side A % | ID :28",
+                "type": "number"
+            }
+        ]
